@@ -1,0 +1,43 @@
+{ 
+     "1" :
+    {
+      "id": "1",
+      "title": "Post Malone",
+      "category": "Web Design",
+      "description": "A sample artist website to promote the release of Artist album.",
+      "sitename": "Artist Website",
+      "url": "https://greve-chocolatine-34680.herokuapp.com",
+      "deliverables": ["Artist Website", "Promotional Page"],
+      "tools": ["JavaScript", "HTML & CSS"],
+      "coverphoto": "/photos/cover/cover_posty.png",
+      "bannerphoto": "/photos/post/banner_post_2.png"
+    },
+    "2" :
+    {
+      "id": "2",
+      "title": "Caption B",
+      "category": "Web Design",
+      "description": "Create an demo type online store for the new fashion collection of clothes with prices.",
+      "sitename": "Caption B Online Shop",
+      "url": "https://www.captionb.com",
+      "deliverables": ["Online Store"],
+      "tools": ["HTML & CSS"],
+      "coverphoto": "/photos/cover/cover_captionb_3.png",
+      "bannerphoto": "/photos/captionb/banner_captionb.png"
+    },
+    "3" :
+    {
+      "id": "3",
+      "title": "Snap Lenses",
+      "category": "Virtual Reality",
+      "description": "Created Snap experiences using lens studio.",
+      "sitename": "UMG Snapchat Lenses",
+      "url": "https://lensstudio.snapchat.com/creator/0NNDsaupCcLtQPB9WRJPww",
+      "deliverables": ["Snapchat Lens"],
+      "tools": ["Snap Lens Studio", "Photoshop"],
+      "coverphoto": "/photos/cover/cover_snap_2.png",
+      "bannerphoto": "/photos/snap/banner_snap_4.png"
+    }
+}
+  
+  
