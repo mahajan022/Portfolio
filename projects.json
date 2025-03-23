@@ -1,0 +1,39 @@
+{ 
+     "1" :
+    {
+      "id": "1",
+      "title": "Face Attendence",
+      "category": "AI/ML",
+      "description": "A biometric attendance system that integrates OpenCV’s deep learning models with Firebase Authentication for real-time, secure attendance tracking. The system detects and recognizes faces with high accuracy using the OpenFace nn4.small2.v1.t7 model and an SVM classifier, ensuring seamless identification while effectively handling unknown faces. Firebase enables secure authentication, cloud-based data management, and real-time access to attendance records, making the system highly scalable. Additionally, it automates attendance logging, generates exportable reports (CSV/Excel), and provides an interactive GUI with a live camera feed for real-time tracking. With multi-platform accessibility and robust security, this system is an efficient and reliable solution for schools, offices, and smart access control applications..",
+      "deliverables": ["Attendance System", "Database and cloud integration"],
+      "tools": ["Python, OpenCV, OpenFace, SVM, Firebase Authentication, Firestore, Tkinter/PyQt, Pandas, Matplotlib, Firebase Storage"],
+      "coverphoto": "/photos/cover/face_template.webp",
+      "bannerphoto": "/photos/captionb/face_cover.webp"
+    },
+    "2" :
+    {
+      "id": "2",
+      "title": "EasyFood",
+      "category": "Web Design",
+      "description": "Allows users to browse food items, add them to the cart, and place orders securely. It features user authentication, enabling users to register, log in, and maintain session security. Once logged in, users can view available food items, select quantities, and proceed with an order. Orders are processed and stored, allowing users to view their order history. The system ensures secure access to order management, allowing users to track or cancel orders if needed. The application provides a seamless experience with real-time data fetching, secure authentication, and efficient order processing for an optimized food ordering experience.",
+      "deliverables": ["Login/Signup", "Card items", "Variety food options", "Make payment"],
+      "tools": ["React.js", "Node.js", "Express.js", "MongoDB", "Axios", "JWT", "bcrypt.js", "Mongoose", "CORS", "dotenv", "React Router DOM"],
+      "coverphoto": "/photos/cover/cover_food.webp",
+      "bannerphoto": "/photos/captionb/food_banner.jpg"
+    },
+    "3" :
+    {
+      "id": "3",
+      "title": "Snap Lenses",
+      "category": "Virtual Reality",
+      "description": "Created Snap experiences using lens studio.",
+      "sitename": "UMG Snapchat Lenses",
+      "url": "https://lensstudio.snapchat.com/creator/0NNDsaupCcLtQPB9WRJPww",
+      "deliverables": ["Snapchat Lens"],
+      "tools": ["Snap Lens Studio", "Photoshop"],
+      "coverphoto": "/photos/cover/cover_snap_2.png",
+      "bannerphoto": "/photos/snap/banner_snap_4.png"
+    }
+}
+  
+  
