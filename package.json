@@ -11,10 +11,10 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1",
-    "express-handlebars": "^4.0.3",
-    "nodemailer": "^6.4.6",
+    "dotenv": "^8.6.0",
+    "express": "^4.21.2",
+    "express-handlebars": "^8.0.1",
+    "nodemailer": "^6.10.0",
     "path": "^0.12.7",
     "project": "file:"
   }
